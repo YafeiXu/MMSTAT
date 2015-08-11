@@ -1,13 +1,15 @@
 # ------------------------------------------------------------------------------
-# Book:         Test Book
+# Book:         Introduction to Statistics using interactive MM*Stat elements
 # ------------------------------------------------------------------------------
 # Quantlet:     MMSTAThistogram_simple
 # ------------------------------------------------------------------------------
 # Description:  It produces an interactive interface to show the histogram. In 
 #               the most basic version only a histogram of the TOTALAREA from
 #               the USCRIME data set is shown. The user can interactively choose
-#               the number of bins. The user can choose the variables and switch
-#               to the other data set including CARS and DECATHLON.
+#               the number of bins. The user can choose different variables and 
+#               different data sets. In this quantlet there are 3 different data
+#               sets. CARS, DECATHLON, USCRIME are three data sets for choosing
+#               by user.
 # ------------------------------------------------------------------------------
 # Datafiles:    CARS.rds, DECATHLON.rds, USCRIME.rds
 # ------------------------------------------------------------------------------
@@ -31,7 +33,6 @@
 # ------------------------------------------------------------------------------
 # Author:       Yafei Xu
 # ------------------------------------------------------------------------------ 
-
 
 
 # please use "Esc" key to jump out the run of Shiny app
