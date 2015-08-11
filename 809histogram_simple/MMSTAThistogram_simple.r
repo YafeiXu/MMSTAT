@@ -1,13 +1,14 @@
 # ------------------------------------------------------------------------------
-# Book:         Test Book
+# Book:         Introduction to Statistics using interactive MM*Stat elements
 # ------------------------------------------------------------------------------
 # Quantlet:     MMSTAThistogram_simple
 # ------------------------------------------------------------------------------
 # Description:  It produces an interactive interface to show the histogram. In 
 #               the most basic version only a histogram of the TOTALAREA from
 #               the USCRIME data set is shown. The user can interactively choose
-#               the number of bins. The user can choose the variables and switch
-#               to the other data set including CARS and DECATHLON.
+#               the number of bins. The user can choose different variables and 
+#               different data sets.In this quantlet there are 3 different 
+#               datasets: CARS, DECATHLON, USCRIME.
 # ------------------------------------------------------------------------------
 # Datafiles:    CARS.rds, DECATHLON.rds, USCRIME.rds
 # ------------------------------------------------------------------------------
@@ -16,10 +17,10 @@
 # ------------------------------------------------------------------------------
 # output:       Interactive shiny application
 # ------------------------------------------------------------------------------
-# Example:      The given application example of MMSTAThistogram_simple shows a
-#               histogram of the USCRIME data set with TOTALAREA as selected 
-#               variable. One can see the bins (in gray) in the histogram. The
-#               number of bins used in this example is equal to 30.
+# Example:      The given application example shows a histogram of the USCRIME
+#               data set with TOTALAREA as selected variable. One can see the 
+#               bins (in gray) in the histogram. The number of bins used in this
+#               example is equal to 30.
 # ------------------------------------------------------------------------------
 # See also:     COPdaxnormhist, COPdaxreturnhist, BCS_Hist2, BCS_Hist1,
 #               MMSTATtime_series_1, MMSTATlinreg, MMSTATconfmean, 
@@ -31,7 +32,6 @@
 # ------------------------------------------------------------------------------
 # Author:       Yafei Xu
 # ------------------------------------------------------------------------------ 
-
 
 
 # please use "Esc" key to jump out the run of Shiny app
