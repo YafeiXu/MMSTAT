@@ -27,7 +27,7 @@
 #               MMSTATconfi_sigma, MMSTATassociation, MMSTAThelper_function
 # ------------------------------------------------------------------------------
 # Keywords:     discrete, histogram, plot, poisson, binomial, data visualization, empirical, estimation, parameter, 
-#               parametric, visualization
+#               parametric, visualization, cdf, interactive
 # ------------------------------------------------------------------------------
 # Author:       Yafei Xu
 # ------------------------------------------------------------------------------ 
