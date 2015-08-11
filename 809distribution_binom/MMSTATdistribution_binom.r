@@ -1,5 +1,5 @@
 # ------------------------------------------------------------------------------
-# Book:         Test Book
+# Book:         MMStat
 # ------------------------------------------------------------------------------
 # Quantlet:     MMSTATdistribution_binom
 # ------------------------------------------------------------------------------
@@ -13,25 +13,20 @@
 #               two distributions, including hyper-geometric distribution and 
 #               Poisson distribution.
 # ------------------------------------------------------------------------------
-# Datafiles:    None
-# ------------------------------------------------------------------------------
 # Inputs:       MMSTAThelper_function
 #               Options: interactive user choice
 # ------------------------------------------------------------------------------
 # output:       Interactive shiny application
 # ------------------------------------------------------------------------------
-# Example:      The given application example of MMSTATdistribution_binom shows 
-#               a histogram of the binomial distribution with number of draws
-#               and probability of success per draw chosen from slide-bars.
-#               One can see the bins (in gray) to approximate the PDF of the 
-#               distribution. 
+# Example:      The given application example shows a histogram of the binomial distribution with number of draws
+#               and probability of success per draw chosen from slide-bars. One can see the bins (in gray) to 
+#               approximate the PDF of the distribution. 
 # ------------------------------------------------------------------------------
 # See also:     BCS_Hist1, BCS_Hist2, BCS_Binpdf, BCS_Binompdf, 
 #               MMSTATtime_series_1, MMSTATlinreg, MMSTATconfmean, 
 #               MMSTATconfi_sigma, MMSTATassociation, MMSTAThelper_function
 # ------------------------------------------------------------------------------
-# Keywords:     discrete, histogram, plot, poisson, binomial, 
-#               data visualization, empirical, estimation, parameter, 
+# Keywords:     discrete, histogram, plot, poisson, binomial, data visualization, empirical, estimation, parameter, 
 #               parametric, visualization
 # ------------------------------------------------------------------------------
 # Author:       Yafei Xu
