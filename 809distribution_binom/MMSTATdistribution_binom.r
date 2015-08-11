@@ -1,5 +1,5 @@
 # ------------------------------------------------------------------------------
-# Book:         MMStat
+# Book:         Introduction to Statistics using interactive MM*Stat elements
 # ------------------------------------------------------------------------------
 # Quantlet:     MMSTATdistribution_binom
 # ------------------------------------------------------------------------------
@@ -18,19 +18,22 @@
 # ------------------------------------------------------------------------------
 # output:       Interactive shiny application
 # ------------------------------------------------------------------------------
-# Example:      The given application example shows a histogram of the binomial distribution with number of draws
-#               and probability of success per draw chosen from slide-bars. One can see the bins (in gray) to 
-#               approximate the PDF of the distribution. 
+# Example:      The given application example shows a histogram of the binomial
+#               distribution with number of draws and probability of success per
+#               draw chosen from slide-bars. One can see the bins (in gray) to 
+#               approximate the PDF of the distribution.  
 # ------------------------------------------------------------------------------
 # See also:     BCS_Hist1, BCS_Hist2, BCS_Binpdf, BCS_Binompdf, 
 #               MMSTATtime_series_1, MMSTATlinreg, MMSTATconfmean, 
 #               MMSTATconfi_sigma, MMSTATassociation, MMSTAThelper_function
 # ------------------------------------------------------------------------------
-# Keywords:     discrete, histogram, plot, poisson, binomial, data visualization, empirical, estimation, parameter, 
-#               parametric, visualization, cdf, interactive
+# Keywords:     discrete, histogram, plot, poisson, binomial, 
+#               data visualization, empirical, estimation, parameter, 
+#               parametric, visualization, cdf, interactive, pdf
 # ------------------------------------------------------------------------------
 # Author:       Yafei Xu
 # ------------------------------------------------------------------------------ 
+
 
 
 # please use "Esc" key to jump out the run of Shiny app
